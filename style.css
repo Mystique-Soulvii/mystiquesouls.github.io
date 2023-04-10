@@ -12,7 +12,7 @@
 .navbar{
     width: 1200px; 
     height: 75px;
-    margin: auto;
+    margin: auto;    
 }
 .icon{
     width:200px;
@@ -219,7 +219,7 @@ ul li a:hover{
 }
 .liw{
     padding-top: 15px;
-    padding-bottom: 10ox;
+    padding-bottom: 10x;
     text-align: center ;
 }
 .icons a{
